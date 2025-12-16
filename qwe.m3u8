@@ -8,5 +8,6 @@ http://1pnmfdrs.megatv.fun/iptv/D54QKTS7ZQ66BH/17018/index.m3u8
 #EXTINF:0 tvg-rec="0",Крик ТВ HD
 #EXTGRP:новости
 http://1pnmfdrs.megatv.fun/iptv/D54QKTS7ZQ66BH/15012/index.m3u8
-#EXTINF:-1,ТУГАН ТЕЛ
+#EXTINF:0 tvg-rec="0",ТУГАН
+#EXTGRP:новости
 http://213.59.128.165:8080/Tugantel/index.m3u8
