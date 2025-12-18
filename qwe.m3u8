@@ -31,20 +31,12 @@ http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
 http://user91229.clients-cdnnow.ru/hls/user91229_1_480/index.m3u8
 #EXTINF:-1,КУРАЙ ТВ
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1,ТАТАРСТАН 24
-https://stream.efir24.tv:4443/live/efir24tv/playlist.m3u8
 #EXTINF:-1,БАШКОРТОСТАН 24
 http://109.233.169.137/540/b24-540.m3u8
 #EXTINF:-1,БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1,АРИС 24 (УФА)
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1,САЛЯМ
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
-#EXTINF:-1,UNIVER TV
-http://cdn.universmotri.ru/live/univer.sdp_720p/playlist.m3u8
-#EXTINF:-1,КУНЕЛ ТВ
-http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
 #EXTINF:-1,ХУЗУР ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1,ШАЯН ТВ
