@@ -23,6 +23,56 @@ http://1pnmfdrs.megatv.fun/iptv/D54QKTS7ZQ66BH/2108/index.m3u8
 http://1pnmfdrs.megatv.fun/iptv/D54QKTS7ZQ66BH/2061/index.m3u8
 #EXTINF:0 tvg-rec="0",Вся Уфа
 http://1pnmfdrs.megatv.fun/iptv/D54QKTS7ZQ66BH/15300/index.m3u8
+#EXTINF:-1,ТУГАН ТЕЛ
+http://213.59.128.165:8080/Tugantel/index.m3u8
+#EXTINF:-1,ТУГАН ТЕЛ HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1,МАЙДАН
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
+#EXTINF:-1,МАЙДАН HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+#EXTINF:-1,МАТУР ТВ HD
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1,variant.m3u8
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
+#EXTINF:-1,ТНВ ПЛАНЕТА
+http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
+#EXTINF:-1,ТНВ ТАТАРСТАН
+http://user91229.clients-cdnnow.ru/hls/user91229_1_480/index.m3u8
+#EXTINF:-1,КУРАЙ ТВ
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1,ТАТАРСТАН 24
+https://stream.efir24.tv:4443/live/efir24tv/playlist.m3u8
+#EXTINF:-1,БАШКОРТОСТАН 24
+http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1,БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1,АРИС 24 (УФА)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,САЛЯМ
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1,UNIVER TV
+http://cdn.universmotri.ru/live/univer.sdp_720p/playlist.m3u8
+#EXTINF:-1,КУНЕЛ ТВ
+http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
+#EXTINF:-1,ХУЗУР ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1,ШАЯН ТВ
+https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
+#EXTINF:-1,ТАМЫР
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1,TMTV
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1,Барс плюс
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:-1,Башкортостан 24
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1,БСТ
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1,Майдан
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1,Татарстан-24
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:0 tvg-rec="7",Моя Планета
 http://1pnmfdrs.megatv.fun/iptv/D54QKTS7ZQ66BH/117/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL Prime HD
